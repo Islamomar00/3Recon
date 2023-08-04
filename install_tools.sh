@@ -1,11 +1,10 @@
 !#/usr/bin/bash
 
 # Mkdir Tools
-mkidr tools
+mkdir tools
 cd tools
 
 # Install script languages
-
 apt-get install golang -Y
 apt-get install python3 -Y
 apt-get install python3-pip -Y
